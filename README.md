@@ -7,14 +7,13 @@ This project simulates a real-world SOC(Security Operations Center) monitoring p
 ## 🔧 Tech Stack
 | Tool | Purpose |
 |---|---|
-| Python - Data fetching, processing & automation |
-| Elasticsearch - Data storage & search engine |
-| Kibana -  Dashboard & visualization |
-| Docker -  Container orchestration |
-| NVD API -  Real CVE vulnerability data |
-| AbuseIPDB API - Real malicious IP intelligence |
-| AlienVault OTX API - Real threat intelligence pulses |
-| Slack Webhook - Automated critical alert notifications |
+| Python | Data fetching & automation |
+| Elasticsearch + Kibana | Storage & dashboard visualization |
+| Docker | Container orchestration |
+| NVD API | Real CVE vulnerability data |
+| AbuseIPDB API | Real malicious IP intelligence |
+| AlienVault OTX | Real threat intelligence feeds |
+| Slack Webhook | Automated daily alerting |
 
 ## 🚀 How to Run
 
